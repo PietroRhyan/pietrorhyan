@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3C91E6&height=200&section=header&text=Pietro%20Rhyan&desc=Full-Stack%20Dev&fontSize=50&fontColor=FFF&fontAlignY=32&descAlignY=50" />
 
-<p align="center" >
+<h3 align="center" >
   Pleasure to meet you 😊
-</p>
+</h3>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PietroRhyan&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pietro Rhyan GitHub resume stats" /> 
