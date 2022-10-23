@@ -29,8 +29,9 @@
 <div align="center">
   <h2>Contact</h2>
   
-  <a href="mailto:pietrorhyan.contact@gmail.com" target="_blank" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <a href="mailto:pietrorhyan.contact@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
   <a href="https://www.instagram.com/pietro_rhyann/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pietro-rhyan-8bb79222b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3C91E6&height=100&section=footer" />
